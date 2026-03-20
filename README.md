@@ -164,14 +164,6 @@ Feature-wise histograms are plotted for each cluster to analyze distributions.
 
 ---
 
-### PCA Visualization
-
-PCA is applied for visualization purposes only.
-
-It reduces data to 3 components to enable plotting.
-
----
-
 ### 3D Scatter Plot
 
 - Axes: PCA components  
